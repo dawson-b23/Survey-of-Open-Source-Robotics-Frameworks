@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this paper, please cite it as below."
+authors:
+  - family-names: "Burgess"
+    given-names: "Dawson"
+title: "Survey of Open-Source Robotics Frameworks"
+version: 1.0
+date-released: 2025-02-25
