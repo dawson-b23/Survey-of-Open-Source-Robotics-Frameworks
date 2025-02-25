@@ -1,7 +1,7 @@
 # Survey of Open-Source Robotics Frameworks
 
 **Author:** Dawson Burgess, Computer Science Department, University of Idaho, Moscow, ID, United States  
-**Email:** burg1648@vandals.uidaho.edu
+**Email:** <burg1648@vandals.uidaho.edu>
 
 ## Overview
 
@@ -27,14 +27,12 @@ This survey examines the current state and evolution of open-source robotics fra
 
 ## Paper
 
-The full paper can be downloaded [here](link_to_paper.pdf).
+The full paper can be downloaded [here](https://github.com/dawson-b23/Survey-of-Open-Source-Robotics-Frameworks/blob/main/CS507_DB_SURVEY_PAPER.pdf).
 
-<!---
-TODO: Replace `link_to_paper.pdf` with the actual URL or file path once the PDF is uploaded to the repository.
---->
 ## Figures
 
 The paper includes the following figures:
+
 - **Figure 1:** References Addressing Each Theme  
 - **Figure 2:** Adoption vs. Documentation Quality for Selected Frameworks  
 - **Figure 3:** Temporal Evolution of Publications by Theme  
@@ -57,4 +55,3 @@ Open-Source Robotics, Robotics Frameworks, Complexity Management, Standardizatio
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
